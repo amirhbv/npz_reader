@@ -1,0 +1,25 @@
+{
+    "name": "npz_reader",
+    "version": "1.0.0",
+    "description": "A package to read NPZ files in node",
+    "main": "src/index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/amirhbv/npz_reader.git"
+    },
+    "author": "AmirHossein Habibvand <ahhabibvand@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/amirhbv/npz_reader/issues"
+    },
+    "homepage": "https://github.com/amirhbv/npz_reader#readme",
+    "dependencies": {
+        "node-stream-zip": "1.8.0"
+    }
+}
